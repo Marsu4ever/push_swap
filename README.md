@@ -18,7 +18,9 @@ The program will do something more though. It'll tell you what **moves** it uses
 
 The **Moves**:  
 **Push**: Either it pushes the top number of a stack to the top of another stack (**pa** (push to stack A) or **pb**).  
+
 **Rotate**: It rotates the top number to the bottom of a stack f.ex. **ra**, **rb**. (Or rotates both of them at the same time **rr**).  
+
 **Reverse Rotate**: Or does the reverse (so rotates the bottom to the top). F.ex. **rra**, **rrb** and **rrr**.  
 
 
