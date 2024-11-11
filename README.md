@@ -3,6 +3,8 @@
 
 This program is all about sorting unsorted numbers, so that by the end they are sorted in **Stack A**.  
 
+**********************************************************************************************************************
+
 **How to use**: 
 Pass your program your favourite numbers.. (which will initially go to Stack A):
 ./push_swap "2" "1" "3"
