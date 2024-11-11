@@ -11,6 +11,8 @@ OR
 
 ./push_swap "2 1 3"
 
+**********************************************************************************************************************
+
 **What happpens then in the program**:  
 By the end, The program will sort numbers into order in a linked list in **Stack A** as **"1, 2, 3**".
 
@@ -23,6 +25,7 @@ The **Moves**:
 
 **Reverse Rotate**: Or does the reverse (so rotates the bottom to the top). F.ex. **rra**, **rrb** and **rrr**.  
 
+**********************************************************************************************************************
 
 **The Algorithm**:  
 The algorithm used is Radix, which checks the bits of the numbers used.  
